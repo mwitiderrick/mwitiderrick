@@ -69,6 +69,9 @@ Mentorship: Trained over 200 learners in Data Science with a 90% completion rate
 
 
 📊 GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mwitiderrick)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwitiderrick&layout=compact)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mwitiderrick)](https://github.com/ryo-ma/github-profile-trophy)
