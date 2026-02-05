@@ -49,7 +49,6 @@ Mentorship: Trained over 200 learners in Data Science with a 90% completion rate
 ### Writing Samples
 * [Personal Blog](https://mlnuggets.digitalpress.blog/author/mwitiderrick/)
 * [Neptune AI](https://neptune.ai/blog/author/derrickmwiti)
-* [CNVRG](https://cnvrg.io/author/derrickm/)
 * [DataCamp - Plotly Dash tutorial](https://www.datacamp.com/tutorial/learn-build-dash-python)
 * [DataCamp - Python Decorators](https://www.datacamp.com/tutorial/decorators-python)
 * [DataCamp Mongo DB Tutorial](https://www.datacamp.com/tutorial/mongodb-tutorial-how-to-set-up-and-query-mongodb-databases)
@@ -70,3 +69,6 @@ Mentorship: Trained over 200 learners in Data Science with a 90% completion rate
 
 
 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mwitiderrick)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwitiderrick&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mwitiderrick)](https://github.com/ryo-ma/github-profile-trophy)
