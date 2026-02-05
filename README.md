@@ -40,21 +40,10 @@ Mentorship: Trained over 200 learners in Data Science with a 90% completion rate
 
 📝 Selected Writing & Tutorials
 
-Image Segmentation: Your Ultimate Guide to Easy Deployment and Fast Inferencing
+* [Image Segmentation: Your Ultimate Guide to Easy Deployment and Fast Inferencing](https://neuralmagic.com/blog/image-segmentationyour-ultimate-guide-to-easy-deployment-and-fast-inferencing/)
+* [Building Sparse LLM Applications on CPUs With LangChain and DeepSparse](https://neuralmagic.com/blog/building-sparse-llm-applications-on-cpus-with-langchain-and-deepsparse/)
+* [Real-time Instance Segmentation With Sparse YOLACT on a Laptop](https://neuralmagic.com/blog/real-time-instance-segmentation-with-sparse-yolact-on-a-laptop/)
+* [Learn to Build Dash Apps in Python (DataCamp)](https://www.datacamp.com/tutorial/learn-build-dash-python)
 
-Building Sparse LLM Applications on CPUs With LangChain and DeepSparse
-
-Real-time Instance Segmentation With Sparse YOLACT on a Laptop
-
-Learn to Build Dash Apps in Python (DataCamp)
-
-📫 Connect with Me
-
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mwitiderrick" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Derrick Mwiti" height="30" width="40" /></a>
-<a href="https://x.com/_mwitiderrick" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mwitiderrick" height="30" width="40" /></a>
-<a href="https://medium.com/@mwitiderrick" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Derrick Mwiti" height="30" width="40" /></a>
-<a href="mailto:mwitiderrick@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
-</p>
 
 📊 GitHub Stats
