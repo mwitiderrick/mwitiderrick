@@ -6,15 +6,15 @@ Over 7 years of experience in Machine Learning (CV + NLP) and AI Engineering. I 
 
 ### Quick Bio
 
-🔭 Currently: Working as an ML Media Copywriter & Developer Advocate for brands like Exponent, DataCamp, and Layer.
+-  Currently: Working as an ML Media Copywriter & Developer Advocate for brands like Exponent, DataCamp, and Layer.
 
-🌟 Expertise: LLMs, MLOps/LLMOps, Technical Writing, and Community Growth.
+-  Expertise: LLMs, MLOps/LLMOps, Technical Writing, and Community Growth.
 
-🎓 Education: BSc. Mathematics and Computer Science; Software Engineering Diploma from MEST.
+-  Education: BSc. Mathematics and Computer Science; Software Engineering Diploma from MEST.
 
-🌍 Community: Google Developer Expert (GDE) for Machine Learning since 2021.
+-   Community: Google Developer Expert (GDE) for Machine Learning since 2021.
 
-✍️ Writing: 16K+ followers across platforms; authored content viewed by millions.
+-  Writing: 16K+ followers across platforms; authored content viewed by millions.
 
 ###  Tech Stack & Skills
 
