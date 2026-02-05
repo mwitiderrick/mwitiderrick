@@ -40,10 +40,33 @@ Mentorship: Trained over 200 learners in Data Science with a 90% completion rate
 
 📝 Selected Writing & Tutorials
 
-* [Image Segmentation: Your Ultimate Guide to Easy Deployment and Fast Inferencing](https://neuralmagic.com/blog/image-segmentationyour-ultimate-guide-to-easy-deployment-and-fast-inferencing/)
-* [Building Sparse LLM Applications on CPUs With LangChain and DeepSparse](https://neuralmagic.com/blog/building-sparse-llm-applications-on-cpus-with-langchain-and-deepsparse/)
-* [Real-time Instance Segmentation With Sparse YOLACT on a Laptop](https://neuralmagic.com/blog/real-time-instance-segmentation-with-sparse-yolact-on-a-laptop/)
-* [Learn to Build Dash Apps in Python (DataCamp)](https://www.datacamp.com/tutorial/learn-build-dash-python)
+### Contact & Profiles
+* [ML Developer Advocate](http://linkedin.com/in/mwitiderrick)
+* [GitHub](https://github.com/mwitiderrick)
+* [X.com](https://x.com/_mwitiderrick)
+* [Medium Profile](https://medium.com/@mwitiderrick)
+
+### Writing Samples
+* [Personal Blog](https://mlnuggets.digitalpress.blog/author/mwitiderrick/)
+* [Neptune AI](https://neptune.ai/blog/author/derrickmwiti)
+* [CNVRG](https://cnvrg.io/author/derrickm/)
+* [DataCamp - Plotly Dash tutorial](https://www.datacamp.com/tutorial/learn-build-dash-python)
+* [DataCamp - Python Decorators](https://www.datacamp.com/tutorial/decorators-python)
+* [DataCamp Mongo DB Tutorial](https://www.datacamp.com/tutorial/mongodb-tutorial-how-to-set-up-and-query-mongodb-databases)
+* [DataCamp Metaclasses Tutorial](https://www.datacamp.com/tutorial/python-metaclasses)
+
+### Social Media & Community
+* [3rd product of the day](https://www.producthunt.com/products/layer-ai)
+* [product launch on Reddit.](https://www.reddit.com/r/MachineLearning/comments/uefz2l/d_collaborationfirst_machine_learning_platform/)
+* [Detecting small objects with SAHI](https://x.com/_mwitiderrick/status/1698617065333277159?s=20)
+* [Data Science tools](https://x.com/_mwitiderrick/status/1650462139738357762?s=20)
+* [Machine learning tools](https://x.com/_mwitiderrick/status/1664509245629530116?s=20)
+* [Machine learning course](https://x.com/_mwitiderrick/status/1682676868045242368?s=20)
+* [Fine-tuning Llama](https://x.com/_mwitiderrick/status/1705496052412149764?s=20)
+* [Kaggle resources](https://x.com/_mwitiderrick/status/1676153880663687168?s=20)
+* [Transformer Architecture](https://x.com/_mwitiderrick/status/1810962181284106412)
+* [Counting cars with CPUs](https://x.com/_mwitiderrick/status/1695707830781956594?s=20)
+* [TensorFlow tutorials](https://x.com/_mwitiderrick/status/1723264383030276406?s=20)
 
 
 📊 GitHub Stats
