@@ -9,7 +9,7 @@ Script to update README.md with GitHub stats including:
 import os
 import sys
 from github import Github
-from datetime import datetime
+from datetime import datetime, timezone
 
 def format_repo_list(repos, max_count=10):
     """Format repository list as markdown."""
@@ -89,7 +89,7 @@ I'm {user.name or username}, a passionate developer working on exciting projects
 
 ---
 
-*Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC*
+*Last updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')} UTC*
 
 <!--
 **{username}/{username}** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -102,7 +102,10 @@ I'm {user.name or username}, a passionate developer working on exciting projects
         
         print("README.md updated successfully!")
         print(f"Total repositories: {stats['total_repos']}")
-        print(f"Top repository: {top_repos[0].name if top_repos else 'None'} ({top_repos[0].stargazers_count if top_repos else 0} stars)")
+        if top_repos:
+            print(f"Top repository: {top_repos[0].name} ({top_repos[0].stargazers_count} stars)")
+        else:
+            print("Top repository: None (0 stars)")
     
     except Exception as e:
         print(f"Error updating README: {e}")
