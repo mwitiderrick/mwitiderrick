@@ -1,10 +1,10 @@
-Hi, I'm Derrick Mwiti 👋
+Hi, I'm Derrick Mwiti 
 
 ML Developer Advocate | AI Engineer | Google Developer Expert
 
 Over 7 years of experience in Machine Learning (CV + NLP) and AI Engineering. I specialize in bridging the gap between complex AI products and developer communities through high-impact technical content, documentation, and open-source integrations.
 
-🚀 Quick Bio
+### Quick Bio
 
 🔭 Currently: Working as an ML Media Copywriter & Developer Advocate for brands like Exponent, DataCamp, and Layer.
 
@@ -16,7 +16,7 @@ Over 7 years of experience in Machine Learning (CV + NLP) and AI Engineering. I 
 
 ✍️ Writing: 16K+ followers across platforms; authored content viewed by millions.
 
-🛠 Tech Stack & Skills
+###  Tech Stack & Skills
 
 AI/ML Frameworks: PyTorch, TensorFlow, Scikit-Learn.
 
@@ -28,7 +28,7 @@ Web & Demos: Streamlit, Gradio, Chainlit, Plotly Dash.
 
 Languages: Python, SQL.
 
-📈 Professional Highlights
+###  Professional Highlights
 
 Neural Magic: Led documentation and demos for DeepSparse, resulting in a 30% decrease in user onboarding time and a 40% reduction in support queries.
 
@@ -38,7 +38,7 @@ Technical Writing: Authored high-performing guides for Intel (Deci), Neptune.ai,
 
 Mentorship: Trained over 200 learners in Data Science with a 90% completion rate.
 
-📝 Selected Writing & Tutorials
+###  Selected Writing & Tutorials
 
 ### Contact & Profiles
 * [ML Developer Advocate](http://linkedin.com/in/mwitiderrick)
@@ -67,11 +67,3 @@ Mentorship: Trained over 200 learners in Data Science with a 90% completion rate
 * [Counting cars with CPUs](https://x.com/_mwitiderrick/status/1695707830781956594?s=20)
 * [TensorFlow tutorials](https://x.com/_mwitiderrick/status/1723264383030276406?s=20)
 
-
-📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mwitiderrick)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwitiderrick&layout=compact)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mwitiderrick)](https://github.com/ryo-ma/github-profile-trophy)
